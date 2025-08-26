@@ -12,7 +12,6 @@ This project is an **End-to-End Machine Learning system** for predicting diabete
 ✔️ **Data preprocessing pipeline** (handling missing values, scaling).  
 ✔️ **Global explainability with SHAP** — bar plot showing top risk factors for diabetes.  
 ✔️ **MLOps integration with MLflow** — logs metrics, predictions, and artifacts.  
-✔️ **Live prediction support** for batch or streaming patient data.  
 
 ---
 
