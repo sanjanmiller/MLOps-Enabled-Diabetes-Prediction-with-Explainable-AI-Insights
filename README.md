@@ -36,5 +36,5 @@ cd MLOps-Enabled-Diabetes-Prediction-with-Explainable-AI-Insights
 ### **2️⃣ Install Dependencies**  
 pip install -r requirements.txt  
 
-### **3️⃣ Run the Live Predictions**  
-streamlit run traffic_sign_streamlit.py 
+### **3️⃣ Run the Project**  
+python live_prediction.py 
