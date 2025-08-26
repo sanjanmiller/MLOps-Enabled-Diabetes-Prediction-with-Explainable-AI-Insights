@@ -37,4 +37,8 @@ cd MLOps-Enabled-Diabetes-Prediction-with-Explainable-AI-Insights
 pip install -r requirements.txt  
 
 ### **3️⃣ Run the Project**  
-python live_prediction.py 
+python live_predictions.py 
+
+### **4️⃣ Run MLflow Tracking Server**
+mlflow ui 
+
