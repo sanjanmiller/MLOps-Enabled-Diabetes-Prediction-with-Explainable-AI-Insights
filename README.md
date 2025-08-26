@@ -27,9 +27,14 @@ This project is an **End-to-End Machine Learning system** for predicting diabete
 
 ---
 
-## 🔧 Installation & Setup  
+## 🔧 **Installation & Setup**  
 
 ### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/your-username/Diabetes-Prediction-MLOps-XAI.git  
-cd Diabetes-Prediction-MLOps-XAI  
+git clone https://github.com/sanjanmiller/MLOps-Enabled-Diabetes-Prediction-with-Explainable-AI-Insights.git  
+cd MLOps-Enabled-Diabetes-Prediction-with-Explainable-AI-Insights  
+
+### **2️⃣ Install Dependencies**  
+pip install -r requirements.txt  
+
+### **3️⃣ Run the Live Predictions**  
+streamlit run traffic_sign_streamlit.py 
